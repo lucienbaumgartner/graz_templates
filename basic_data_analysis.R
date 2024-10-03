@@ -14,7 +14,7 @@ library(psych)
 library(lm.beta)
 library(mediation)
 
-rm(list = ls())
+rm(list = ls()) # Clean the working environment
 
 # Sets the working directory to the folder containing this file
 # You will be able to use relative paths to your data
