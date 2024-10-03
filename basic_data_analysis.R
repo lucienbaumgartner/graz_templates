@@ -109,3 +109,4 @@ summary(mediation_model)
 write.csv(tidy(t_test_between), file = "t_test_between_results.csv")
 write.csv(tidy(lm_model), file = "regression_results.csv")
 
+### Please add more stuff you think should be included in the template
